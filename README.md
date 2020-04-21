@@ -11,12 +11,14 @@ The program will then output in the format of, for example, `402/5/0/0 for 99.1%
 
 2. `99.1%` is the accuracy requested.
 
-3. I realized `if FC` is not true - acc is same if you sliderbreak and get five 100s in the end. I'm too lazy to go back and fix this small thing, so whatever.
+3. I realized `if FC` is not true - accuracy is same if you sliderbreak and get five 100s in the end. I cba to fix it so whatever.
 
 4. `99.18%` is the actual accuracy of 402/5/0/0. The program's accuracy is always higher than or equal to the requested accuracy.
 
 ### Notes
 * This program is made for [osu!](http://osu.ppy.sh/), a free-to-play rhythm game. This program is third-party software and is not associated with osu! and its brand.
+
+* Evidently, this is for the osu!standard gamemode and assumes that you get zero 50s or misses.
 
 * This program uses the [PySimpleGUI library](https://pypi.org/project/PySimpleGUI/).
 
