@@ -1,5 +1,6 @@
 # osu! Reverse Accuracy Calculator
 A small program giving number of 100s from a given accuracy and 'hit numbers'.
+
 UPDATE: I just realized source code broke, probably due to Python 3.8+. I probably won't fix it.
 #### [Download the most recent release here.](https://github.com/RedstoneSRG/reverse-accuracy/releases)
 
